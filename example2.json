@@ -1,0 +1,1 @@
+{"$schema":"http://json-schema.org/draft-04/schema#","title":"Product","type":"object","required":["id","blah","third thing"],"properties":{"id":{"description":"The unique identifier for a product","type":"integer"}},"something else":["woohoo"]}

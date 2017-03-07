@@ -1,6 +1,8 @@
 {
-    "id": "five"
+    "id": "five",
     "name": "A green door",
-    "price": "12.50",
-    "tags": "home"
+    "price": 12.50,
+    "tags":["home","house"],
+    "isNullN": null,
+    "boolean": true
 }
